@@ -1,0 +1,7 @@
+/*---------------------- The entire file has been reviewed --------*/
+
+// Text truncation
+
+.text-truncate {
+  @include text-truncate();
+}
